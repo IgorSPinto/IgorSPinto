@@ -6,5 +6,5 @@
 - 🌱 Estou atualmente estudando JavaScript - HTML - CSS
 - ⚡ Fun fact: Gosto de RPG
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSPinto&layout=donut&show_icons=true&theme=transparent)](https://github.com/IgorSPinto/IgorSPinto/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSPinto&layout=donut-vertical&show_icons=true&theme=transparent)](https://github.com/IgorSPinto/IgorSPinto/edit/main/README.md)
 
